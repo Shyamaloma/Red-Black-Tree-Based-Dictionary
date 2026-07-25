@@ -118,7 +118,6 @@ Example usage:
 ## Project Structure
 
 ```bash
-.
 ├── Dictionary.h        # Header file for Dictionary ADT
 ├── Dictionary.cpp      # Red-Black Tree implementation
 ├── Words.cpp           # Unique word extraction program
